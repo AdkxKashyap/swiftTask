@@ -1,0 +1,26 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "bcrypt": "^3.0.6",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.5",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "env-cmd": "^9.0.1",
+    "nodemon": "^1.19.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "env-cmd --file ./config/dev.env nodemon index.js"
+  },
+  "author": "akash",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
