@@ -10,7 +10,11 @@ const sendWelcomeMsg=(name,email)=>{
         text:`Hi ${name},Welcome to SwifT@ask`
     }
 
-    sgMail.send(msg)
+    sgMail.send(msg).then(()=>{
+        console.log("Email Sent");
+    }).catch((err)=>{
+        console.log(err.body);
+    })
 }
 
 module.exports={

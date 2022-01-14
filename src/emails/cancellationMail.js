@@ -9,7 +9,11 @@ const sendCancellationMsg=(name,email)=>{
         text:`Hi ${name},We hope to see you again`
     }
 
-    sgMail.send(msg)
+    sgMail.send(msg).then(()=>{
+        console.log("Deleted User Email Sent");
+    }).catch((err)=>{
+        console.log(err);
+    })
 }
 
 module.exports={

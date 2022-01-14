@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@sendgrid/mail": "^6.4.0",
-    "bcrypt": "^3.0.6",
+    "@sendgrid/mail": "^7.6.0",
+    "bcrypt": "^5.0.1",
     "express": "^4.16.4",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.2.3",
