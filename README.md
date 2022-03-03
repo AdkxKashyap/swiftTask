@@ -66,7 +66,7 @@
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `AdkxKashyap`, `swiftTask`, `twitter_handle`, `adkx1010`, `gmail`, `akashdeepk619`, `Swift Task`, `Swift Task is social media web appliction where uses can share posts , make new friends , share their ideas and many more things.` -->
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ### Built With
 
@@ -79,7 +79,7 @@
 - [Bcrypt]
 - [Multer]
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 
@@ -117,7 +117,7 @@ This is an example of how to list things you need to use the software and how to
     ```sh
    npm start
    ```
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 <!-- USAGE EXAMPLES -->
 
@@ -126,11 +126,6 @@ This is an example of how to list things you need to use the software and how to
 
 
 _For more information, please refer to the [Documentation](https://documenter.getpostman.com/view/3712938/UVeCQTf6)_ -->
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- CONTRIBUTING -->
 
 ## Contributing
@@ -146,7 +141,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 <!-- CONTACT -->
@@ -156,9 +151,6 @@ Don't forget to give the project a star! Thanks again!
 [@linkedin](https://linkedin.com/in/adkx1010) . akashdeepk619@gmail.com 
 
 Project Link: [https://github.com/AdkxKashyap/swiftTask](https://github.com/AdkxKashyap/swiftTask)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
